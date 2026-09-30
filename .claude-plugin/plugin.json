@@ -1,7 +1,7 @@
 {
   "name": "stuga",
   "displayName": "Stuga",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Search, read and edit the documents and databases in your own Stuga workspaces. Claude's edits arrive in Stuga as suggestions you accept or reject.",
   "author": {
     "name": "Stuga",
