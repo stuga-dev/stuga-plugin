@@ -4,7 +4,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@stuga/mcp@0.1.12"
+        "@stuga/mcp@0.1.13"
       ],
       "env": {
         "STUGA_URL": "${user_config.node_url}",
